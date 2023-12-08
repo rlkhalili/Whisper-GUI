@@ -1,4 +1,7 @@
 December*
 *.mp3
+*.wav
 script.py
 venv/
+*copy*
+audio.py
